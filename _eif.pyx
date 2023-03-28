@@ -7,7 +7,7 @@
 import cython
 import numpy as np
 cimport numpy as np
-from version import __version__
+# from version import __version__
 
 cimport __eif
 
